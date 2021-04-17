@@ -1,4 +1,4 @@
-<h1> Versions </h1>
+### Versions 
 <p>Angular CLI: 11.2.9 </p>
 <p>Node: 14.16.0  </p>
 <p>OS: linux x64  </p>
@@ -10,8 +10,7 @@
 Ivy Workspace: Yes
 </p>
 
-
-<h1> Setup </h1>
+### Setup 
 <p>Make sure Node Js And Angular have already installed on your System </p>
 <p> clone the Source code </p>
 <p> install nodeJs by this connent "npm install" </p>
