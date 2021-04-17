@@ -1,0 +1,27 @@
+<h3> Language data </h3>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Code</th>
+      <th scope="col">Actions</th>
+
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor ="let language of LanguagesList">
+      <th scope="row">#</th>
+      <td>{{language.name}}</td>
+      <td>{{language.code}}</td>
+       <td>
+        <button type='button' class='btn btn-online-sucess'>edit </button>
+        <button type='button' class='btn btn-online-sucess'>Delete </button>
+       </td>
+
+
+    </tr>
+
+  </tbody>
+</table>
