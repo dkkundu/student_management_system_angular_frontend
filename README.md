@@ -14,5 +14,5 @@ Ivy Workspace: Yes
 <h1> Setup </h1>
 <p>Make sure Node Js And Angular have already installed on your System </p>
 <p> clone the Source code </p>
-<p> install nodeJs by this connent 'npm install' </p>
-<p> Run the Frontend Server bt ng serve </p>
+<p> install nodeJs by this connent "npm install" </p>
+<p> Run the Frontend Server by  "ng serve" </p>
